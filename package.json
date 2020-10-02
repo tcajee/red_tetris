@@ -1,0 +1,25 @@
+{
+  "name": "red_tetris_launcher",
+  "version": "1.0.0",
+  "description": "\"red-tetris-boilerplate",
+  "main": "./src/server/routes/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "US",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.21.2",
+    "eslint-plugin-react-hooks": "^4.1.2"
+  },
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
+}
