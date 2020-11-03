@@ -5,7 +5,7 @@
 ```bash
 .
 ├── src
-│   └── index.js
+│   └── index.js
 └── server
     └── server.js
 ```
@@ -42,13 +42,3 @@ To launch the server, run the commands below from the root of the project:
 ### Launching the game
 
 To start the application, navigate to http://localhost:3000.
-
-### Running tests
-
-To execute the unit tests, run the commands below from the root of the 'client' folder: 
-
-```bash
-> npm run test
-```
-
-

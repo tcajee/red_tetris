@@ -8,12 +8,6 @@ function App() {
 
   return (
     <div className="app">
-      {/* <style jsx>{`
-    .app {
-      background: black;
-      background-size: cover;
-    }
-  `}</style> */}
       <Router hashType="noslash" >
         <Route exact path="/" component={Home} />
         <Route exact path="/:roomId" component={Tetris} />
