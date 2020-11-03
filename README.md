@@ -35,10 +35,9 @@ The 'server' folder  contains the express with socket.io server.
 To launch the server, run the commands below from the root of the project: 
 
 ```bash
-> npm install
 > npm run server
 ```
 
 ### Launching the game
 
-To start the application, navigate to http://localhost:3000.
+To start the application, navigate to http://localhost:8080
